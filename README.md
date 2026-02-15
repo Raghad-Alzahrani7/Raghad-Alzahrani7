@@ -26,3 +26,7 @@ A junior IT student at KAU interested in web development and data analysis. I en
 ## 🤝 Contact
 
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:raghad.ba27@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/raghad-alzahrani-23603a3b1)
+
+
