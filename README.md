@@ -1,3 +1,8 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
+
+</div>
 ## Raghad Alzahrani 👋
 
 I’m Raghad, an IT student at King Abdulaziz University. I’m interested in web development and data analysis, and I enjoy learning new technologies and working on projects that improve my skills.
