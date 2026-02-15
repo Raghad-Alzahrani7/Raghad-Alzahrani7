@@ -1,4 +1,4 @@
-## Fancy seeing you here! 👋
+## Raghad Alzahrani 👋
 
 I’m Raghad, an IT student at King Abdulaziz University. I’m interested in web development and data analysis, and I enjoy learning new technologies and working on projects that improve my skills.
 
