@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://developer.apple.com/hello/images/april24-hello-hero_2x.jpeg" alt="Hello" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Alzahrani7/Raghad-Alzahrani7/main/Hello%20(apple).gif" width="60%"/>
 
 </div>
+
 
 ## Raghad Alzahrani 👋
 
