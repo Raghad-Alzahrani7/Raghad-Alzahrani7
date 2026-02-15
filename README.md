@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Raghad-Alzahrani7/Raghad-Alzahrani7/main/Hello%20(apple).gif" width="30%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Alzahrani7/Raghad-Alzahrani7/main/Hello%20(apple).gif" width="10%"/>
 
 </div>
 
