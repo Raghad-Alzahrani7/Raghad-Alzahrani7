@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://wallpapercave.com/wp/wp12698129.png" alt="Hello" width="60%"/>
+
+</div>
+
 ## Raghad Alzahrani 👋
 
 I’m Raghad, an IT student at King Abdulaziz University. I’m interested in web development and data analysis, and I enjoy learning new technologies and working on projects that improve my skills.
