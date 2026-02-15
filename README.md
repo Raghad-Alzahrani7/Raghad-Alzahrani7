@@ -7,7 +7,8 @@
 
 ## Raghad Alzahrani 👋
 
-I’m Raghad, an IT student at King Abdulaziz University. I’m interested in web development and data analysis, and I enjoy learning new technologies and working on projects that improve my skills.
+A junior IT student at KAU interested in web development and data analysis. I enjoy learning new technologies and building projects that improve my skills.
+
 
 ## 🚀 Skills
 
