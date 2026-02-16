@@ -7,8 +7,7 @@
 
 ## Raghad Alzahrani 👋
 
-IT student at KAU interested in web development and data analysis. I enjoy learning new technologies and building projects that improve my skills.
-
+IT student at KAU focused on web development and data analysis. I enjoy learning new technologies and building practical projects that strengthen my technical skills.
 
 ## 🚀 Skills
 
